@@ -2,6 +2,8 @@
 Using RFM model for segmenting customers based on their loyalty ranking, according to their Recency, Frequency and Monetary scores.
 
 RFM stands for Recency Frequency and Monetary. This technique is commonly used to segment customers into categories/groups based on how active they are during the recent specific period of time. The RFM metrics are very important indicators of both customer's lifetime value and retention, a measure of engagement.
+
+
 Frequency: How often the customer orders/ uses the service?
 Recency: When was the last time the customer ordered/used the service?
 Monetary: How much the customer spends on their orders/ service usage?
